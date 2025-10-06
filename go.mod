@@ -1,4 +1,4 @@
-module github.com/prezhdarov/vmware-exporter
+module github.com/levifranzen/vmware-exporter
 
 go 1.25
 
